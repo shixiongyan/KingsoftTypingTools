@@ -13,7 +13,7 @@ void fileTest()
 	//cout<<str;
 	Key *nkey= new Key;
 	nkey->sleep(3000);
-	nkey->setSleepTime(10);
+	nkey->setSleepTime(2);
 	nkey->bearStr(str); 
 }
 
